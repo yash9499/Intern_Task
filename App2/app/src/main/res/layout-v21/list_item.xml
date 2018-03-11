@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:elevation="32dp"
+        app:cardCornerRadius="16dp"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginLeft="8dp"
+                android:id="@+id/name"
+                android:text="Name:"
+                android:fontFamily="sans-serif-condensed"
+                android:textAllCaps="true"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+            <TextView
+                android:id="@+id/edit_name"
+                android:layout_marginLeft="8dp"
+                android:text="yash Khandelwal"
+                android:textColor="@android:color/black"
+                android:layout_width="wrap_content"
+                android:layout_below="@id/name"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/contactNo"
+                android:text="Cont.Number"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginRight="8dp"
+                android:layout_alignParentRight="true"/>
+            <TextView
+                android:id="@+id/editContNumber"
+                android:layout_below="@id/contactNo"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="8dp"
+                android:text="9414609590"
+                android:textColor="@android:color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

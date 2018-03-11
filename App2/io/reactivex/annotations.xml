@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='io.reactivex.Observable io.reactivex.Observable&lt;T&gt; subscribeOn(io.reactivex.Scheduler)'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>

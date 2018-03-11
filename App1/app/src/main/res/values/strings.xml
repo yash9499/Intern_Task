@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCarpet</string>
+    <string name="china">CHINA</string>
+    <string name="rank">Rank:</string>
+    <string name="_1">1</string>
+    <string name="country_population">Country Population:</string>
+    <string name="_24000">24000</string>
+</resources>

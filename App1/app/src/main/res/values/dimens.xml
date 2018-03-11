@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="elevation_16dp">16dp</dimen>
+    <dimen name="cardRadius_2dp">2dp</dimen>
+    <dimen name="imageHeight">125dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="textSize_20sp">20sp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="textSize_24sp">24sp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margn_8dp">8dp</dimen>
+</resources>

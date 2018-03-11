@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactListExtraction</string>
+    <string name="load">Click to load Contacts</string>
+    <string name="file_to_csv">file to csv and Zip</string>
+    <string name="name">Name:</string>
+    <string name="yash_khandelwal">yash Khandelwal</string>
+    <string name="cont_number">Cont.Number</string>
+    <string name="_9414609590">9414609590</string>
+</resources>
