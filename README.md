@@ -24,5 +24,9 @@ This App asks the user the run time permission to retrieve contacts and displays
 * On clicking the button “FILE TO CSV AND ZIP” create the csv file and zipped file and store it onto the device storage.
 ![App2 5.png](https://github.com/yash9499/Internship_Task/blob/master/screenshots/5.png)
 
+* Finally folder is created with 2 items.
+a) contact_list.csv
+b) Contacts.zip
+
 
 
