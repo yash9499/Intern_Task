@@ -28,7 +28,7 @@ This App asks the user the run time permission to retrieve contacts and displays
 
 a) contact_list.csv<br />
 b) Contacts.zip
-![App2 6.png](https://github.com/yash9499/Internship_Task/blob/master/screenshots/5.png)
+![App2 6.png](https://github.com/yash9499/Internship_Task/blob/master/screenshots/6.png)
 
 
 
